@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "NodeJS Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Plackpegasus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodemon": "^1.19.2"
+  }
+}
