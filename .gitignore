@@ -1,5 +1,8 @@
 # discord bot token
-Token/
+config.json
 
 # node dependencies
 node_modules/
+
+# assets for bot
+assets/*
