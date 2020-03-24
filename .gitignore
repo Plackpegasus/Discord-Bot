@@ -1,5 +1,6 @@
-# discord bot token
+# configuration files
 config.json
+.vscode/
 
 # node dependencies
 node_modules/

@@ -10,7 +10,12 @@
   "author": "Plackpegasus",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "nodemon": "^1.19.2"
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "github:discordjs/discord.js",
+    "ffmpeg-static": "^4.0.1",
+    "ytdl-core": "^1.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
   }
 }
